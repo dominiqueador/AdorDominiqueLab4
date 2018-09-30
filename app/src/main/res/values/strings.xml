@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Activity Life Cycle</string>
+    <string name="nam">Bambike Ecotours Intramuros</string>
+    <string name="loc1">Location:</string>
+    <string name="dis1">Distance:</string>
+    <string name="loc2">Plaza San Luis Complex, Intramuros, Manila, Luzon 1002, Philippines</string>
+    <string name="dis2">4.2 km from University of Santo Tomas</string>
+    <string name="back">BACK</string>
+    <string name="next">NEXT</string>
+</resources>
